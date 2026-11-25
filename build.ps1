@@ -49,6 +49,8 @@ if (Test-Path $fontDir) {
 }
 $html = $tpl.Replace('/*__FONTS__*/', $fontCss).Replace('/*__STYLE__*/', $css).Replace('/*__ENGINE__*/', $js).Replace('/*__DATA__*/', $json)
 [IO.File]::WriteAllText($outFile, $html, $utf8)
+# Same game as index.html, ready to upload to GitHub Pages.
+[IO.File]::WriteAllText((Join-Path $root 'index.html'), $html, $utf8)
 
 Write-Host ''
 Write-Host ("Built 'Grammar Guide Game.html' from {0} level files and {1} pictures:" -f $files.Count, $images.Count)

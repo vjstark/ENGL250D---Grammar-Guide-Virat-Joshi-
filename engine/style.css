@@ -14,8 +14,8 @@
 }
 * { box-sizing: border-box; }
 html, body { margin: 0; height: 100%; overflow: hidden; background: #E8B888; }
-body { font: 18px/1.4 var(--font); color: var(--ink); }
-button, input { font: inherit; color: inherit; }
+body { font: 18px/1.4 var(--font); color: var(--ink); font-variant-ligatures: none; font-feature-settings: "liga" 0, "clig" 0; }
+button, input { font: inherit; color: inherit; font-variant-ligatures: none; font-feature-settings: "liga" 0, "clig" 0; }
 [hidden] { display: none !important; }
 :focus-visible { outline: 3px solid var(--blue); outline-offset: 2px; }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
