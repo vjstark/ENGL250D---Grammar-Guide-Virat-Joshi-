@@ -42,15 +42,13 @@ Hint: There are two errors.
 Passage:
 We had {less => fewer | Deliveries can be counted one by one.} courier deliveries this month than last month, so the invoice was lower. The courier charged {fewer => less | Money is an amount, so use less than $200.} than $200 for the deliveries. We also used {less => less | Correct: paper is the material here, an amount.} paper by sending receipts electronically. Please review the attached summary before I send it to Ms. Fewster.
 
-## Mini-boss: The 5 p.m. supply memo
+## Mini-boss: The Hearing File Order
 Document: Memo
 To: You
-From: Ms. Fewster, Partner
-Re: Supply order
+From: Ms. Fewster, Managing Partner
+Re: Supplies for tomorrow’s hearing
 Penalty: 10
-Hint: There are three errors. One "less" in this memo is correct.
-FILLER passage. Ms. Fewster needs this memo fixed before it goes to the whole office at 5 p.m.
+Hint: There are three errors. One use of “less” is correct.
+Ms. Fewster needs this order corrected before the supplier’s 5 p.m. cutoff.
 Passage:
-We need to cut costs this quarter, so please order {less => fewer | Binders can be counted: two binders, three binders.} binders than last time. We also want {fewer => less | Paper is an amount here. You can't say three papers.} paper in the recycling bins, so print only what you need.
-
-Our records show that {less => fewer | Clients are counted one by one.} than 20 clients picked up their files last month. That leaves {less => less | Money is an amount, so less than $50 is standard.} than $50 in the courier budget.
+Please order {less => fewer | Binders are individual items you can count.} binders than we ordered for the last hearing. The copy room has {fewer => less | Toner is an amount of material here.} toner than usual, so add one cartridge to the order. We need {less => fewer | Copies are individual items you can count.} than 12 copies of the revised affidavit. The supplier says delivery will take {less => less | Correct: hours measure a length of time.} than two hours, so the supplies should arrive before the hearing.

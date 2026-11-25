@@ -1,44 +1,54 @@
 ---
-Title: Agreement: Test
+Title: Subject–Verb Agreement: Test
 ---
-FILLER: these questions are pasted in the Word-page layout to show that it works too.
+## Question
+The typo in the footnotes ___ easy to overlook.
+
+A) is
+B) are
+Answer: A
+Feedback B: *Typo* is the head. *Footnotes* is inside a phrase, so it doesn’t control the verb.
 
 ## Question
-Question: The box of client files ___ on the front desk.
-Options: A) is · B) are · C) were
-Correct answer: A
-Feedback:
-B) Files is inside the prepositional phrase of client files. The head is box, which is singular.
-C) Were is plural, but the head box is singular.
-Hint: Cross out the phrase that starts with of.
+The dates in the margin ___ written in pencil.
+
+A) is
+B) are
+Answer: B
+Feedback A: *Dates* is plural, so it takes *are*. The singular noun *margin* is inside the phrase.
 
 ## Question
-Question: A number of clients ___ asked about the new fees.
-Options: A) has · B) have · C) is
-Correct answer: B
-Feedback:
-A) A number of works like several, so the real head is clients, which is plural.
-C) Is is singular, and a number of needs a plural verb.
-Hint: Swap a number of for several. Which verb sounds right now?
+The handwritten note, together with two corrections, ___ in red ink.
+
+A) appears
+B) appear
+Answer: A
+Feedback B: The head is *note*. *Together with two corrections* adds information but doesn’t make the subject plural.
 
 ## Question
-Question: Each of the lawyers ___ a parking pass.
-Options: A) has · B) have · C) are
-Correct answer: A
-Feedback:
-B) Of the lawyers is clutter. The subject is each, which is always singular.
-C) Are is plural, and it doesn't fit the meaning of the sentence.
-Hint: Cross out the of phrase. What word is left before the blank?
+The reviewer and the transcriptionist ___ the totals before filing.
 
-## Mini-boss: The courier list
+A) checks
+B) check
+Answer: B
+Feedback A: *And* joins two subjects, so the plural verb *check* is correct.
+
+## Inspect: Page labels
+Document: Email
+From: Alina Rao, Records Clerk
+To: You
+Subject: Page labels
+Hint: There are two errors.
+Passage:
+The label on the scanned pages {are => is | *Label* is the singular head; *pages* is inside a phrase.} too small. The initials on the final sheet {needs => need | *Initials* is plural; *sheet* is inside a phrase.} to match the filing record. I can update them before the packet is sent to the court.
+
+## Mini-boss: Affidavit packet
 Document: Memo
 To: You
-From: Omar Haddad, Senior Paralegal
-Re: Hearing materials
+From: Ms. Fewster, Managing Partner
+Re: Affidavit packet
 Penalty: 10
-Hint: There are three errors. Cross out every "of" phrase first.
-FILLER passage. The courier leaves at noon.
+Hint: There are three errors.
+It must be ready for filing by 5 p.m.
 Passage:
-The list of exhibits for the hearing {are => is | The head of the subject is list, which is singular.} on the shared drive. Each of the associates {have => has | Cross out "of the associates." Each is singular.} a printed copy.
-
-A number of clients {have => have | A number of works like several, so the plural verb is correct.} asked for updates, and the box of signed forms {need => needs | The head is box. Cross out "of signed forms."} to go to the courier by noon.
+The total of the replacement pages {were => was | *Total* is the singular head.} added to the invoice. The approval pages, together with the cover sheet, {is => are | *Approval pages* is the plural subject; *together with the cover sheet* doesn’t change it.} ready for signature. The chief clerk, as well as two vendors, {are => is | *Chief clerk* is singular; *as well as two vendors* doesn’t change it.} expected at the review. The client notice and the revised schedule {are => are | Correct: *and* joins two subjects.} attached to this memo.

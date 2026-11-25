@@ -6,7 +6,7 @@ From: Dana Whitfield, Office Manager
 To: You
 Subject: Welcome! How your desk works
 ---
-> FILLER: replace with your own text.
+> Read this before you clock in. It explains how to handle the work that comes to your desk.
 
 Hi, and welcome to Fewster & Lessing LLP.
 

@@ -42,7 +42,7 @@
     (s.kind === 'lesson' ? d.lessons : d.tests).push(s);
   });
   DAYS.forEach(function (d, i) {
-    d.index = i; d.no = i + 1;
+    d.index = i; d.no = d.num; // the file number is the day shown: 00 = Day 0 (tutorial), 01 = Day 1
     var named = d.lessons.concat(d.tests).filter(function (s) { return s.meta.level; })[0];
     d.name = named ? named.meta.level : '';
     d.items = [];

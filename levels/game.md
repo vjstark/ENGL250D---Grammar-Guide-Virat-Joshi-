@@ -12,4 +12,4 @@ Note 1: See me tomorrow morning.
 Note fail: Not good enough. Do it again.
 Ending: FILLER: You made it through every file on your desk. The partners noticed. (Write your own ending here.)
 ---
-FILLER: Welcome to Fewster & Lessing LLP. Every day, a lesson lands on your desk, then the documents start coming. Approve the clean ones, return the ones with errors, and beat each deadline. (Replace this with your own intro.)
+You work as a proofreader at a law firm. Start with Day 0, the tutorial, where you learn how to play. Then work through seven levels; each level is a workday that teaches a new grammar topic. Use what you learn each day to defeat the mini-boss: a memo that is due at 5 p.m.

@@ -29,7 +29,7 @@ Every player starts each day with **3 hearts**. A wrong stamp loses a heart: app
 08B Final boss - Affidavit.md
 ```
 
-- **The number** is the day. The lowest number is Day 1, the next is Day 2, and so on. Gaps are fine.
+- **The number** is the day the game shows: `00` is Day 0 (the tutorial), `01` is Day 1, and so on. Days play in number order, and gaps are fine.
 - **The letter** sets the order inside a day: `A` before `B` before `C`. By convention, **A = lesson, B = test**. A day can have several lessons or tests. They play in letter order, and all test items go into one inbox.
 - Anything after the number and letter is just for you.
 - To add a day, add new files (for example `09A`, `09B`). To remove one, delete its files.

@@ -4,7 +4,7 @@ Note 3: You'll do.
 Note 2: Fine. Read the rulebook before tomorrow.
 Note 1: That was the practice round.
 ---
-FILLER: A quick practice before your first real day.
+Before your first full workday, try a short practice round. You'll answer a question, approve a clean document, and correct one spelling error.
 
 ## Question
 What should you do with a word that is already correct?
@@ -21,7 +21,7 @@ Document: Email
 From: Dana Whitfield, Office Manager
 To: You
 Subject: Parking
-FILLER passage. This one has no errors. Stamp it APPROVE.
+This email has no errors. Stamp it APPROVE.
 Passage:
 Your parking pass is in the top drawer of your desk. Please park on the second level of the parkade.
 
@@ -31,8 +31,8 @@ To: You
 From: Dana Whitfield, Office Manager
 Re: Your desk
 Penalty: 10
-Hint: There is one spelling error. Remember: i before e, except after c.
+Hint: There is one spelling error. Remember the mnemonic: I before E, except after C.
 This one has one error. Click it, correct it, then stamp it RETURN.
 Passage:
-Your desk is next to the {recieving => receiving | I before e, except after c.} area on the second floor.
+Your desk is next to the {recieving => receiving | The mnemonic is I before E, except after C.} area on the second floor.
 Your computer password will arrive by email this morning.

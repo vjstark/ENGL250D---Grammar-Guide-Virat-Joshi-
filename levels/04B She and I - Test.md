@@ -1,48 +1,62 @@
 ---
-Title: She and I: Test
+Title: Pronoun Case: Test
 ---
 ## Question
-The manager asked Omar and ___ to review the contract.
+The mediator and ___ will organize the record index.
 
 A) I
 B) me
-C) myself
-Answer: B
-Feedback A: The manager did the asking, so the pronoun receives the action. It needs the object form.
-Feedback C: Myself only works when I appears earlier in the same sentence, as in I asked myself.
-Hint: Cover Omar and. What sounds right after asked?
-
-## Question
-Between you and ___, the deadline is unrealistic.
-
-A) I
-B) me
-C) myself
-Answer: B
-Feedback A: Between is a preposition, so the pronoun after it must be in the object form.
-Feedback C: Myself needs an earlier I in the sentence, and there isn't one.
-Hint: Would you say between us or between we?
-
-## Question
-In formal writing, which word completes the sentence? My sister types faster than ___.
-
-A) I
-B) me
-C) myself
 Answer: A
-Feedback B: Than me is common in speech, but formal writing finishes the comparison: than I do.
-Feedback C: Myself needs an earlier I in the sentence.
-Hint: Finish the sentence: …faster than ___ do.
+Feedback B: *I* is part of the subject.
 
-## Mini-boss: The binder email
+## Question
+The litigation assistant forwarded the image to the court clerk and ___.
+
+A) I
+B) me
+Answer: B
+Feedback A: *To* is a preposition, so use the object form *me*.
+
+## Question
+The files were divided between the docket manager and ___.
+
+A) I
+B) me
+Answer: B
+Feedback A: *Between* is a preposition, so use *me*.
+
+## Question
+The clerk completed the form more quickly than ___ did.
+
+A) I
+B) me
+Answer: A
+Feedback B: *I* is the subject of the understood comparison clause: “I did.”
+
+## Question
+I reminded ___ to attach the final receipt.
+
+A) me
+B) myself
+Answer: B
+Feedback A: The subject *I* is reminding the same person, so the reflexive form *myself* is correct.
+
+## Inspect: Service packet
 Document: Email
-From: You
-To: Ms. Chen
-Subject: Ramsay binder
-Penalty: 10
-Hint: There are three errors. Use the drop-the-name test on each pronoun.
-FILLER passage.
+From: Farah Nasser, Office Coordinator
+To: You
+Subject: Service packet
+Hint: There are two errors.
 Passage:
-Between you and {I => me | Between is a preposition, so use the object form.}, the Ramsay binder is late. The partner asked Omar and {myself => me | Myself needs an earlier I in the same sentence.} to finish it tonight.
+The docket manager and {me => I | *I* is part of the subject.} checked the delivery schedule this morning. The revised copy was returned to the registrar and {I => me | *To* is a preposition and needs the object form.}. The office coordinator {herself => herself | Correct: *herself* adds emphasis.} saved the clean version.
 
-{Him => He | Test it alone: He will bring the exhibits.} and Priya will bring the exhibits. Please send any questions to Ms. Chen or {me => me | To is a preposition, so the object form me is correct.}.
+## Mini-boss: Service packet
+Document: Memo
+To: You
+From: Ms. Fewster, Managing Partner
+Re: Service packet
+Penalty: 10
+Hint: There are three errors.
+It must be ready for the 5 p.m. filing.
+Passage:
+{Her => She | *She* is part of the subject.} and I will prepare the index tabs before the 5 p.m. filing. The signed order was sent to the court registrar and {I => me | *To* is a preposition and needs the object form.}. The docket assistant left a reminder for {myself => me | *Myself* needs to refer back to *I* or add emphasis; here, use the object form *me*.}. The senior associate finished the checklist sooner than {I => I | Correct: *I* is the subject of *expected*.} expected.

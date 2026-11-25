@@ -1,20 +1,10 @@
-LEVEL CHECK  2026-11-25 12:55  -  19 files
-
-00A Tutorial - Welcome.md
-  CHECK     line 9    Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
+LEVEL CHECK  2026-11-25 15:38  -  19 files
 
 00B Tutorial - Practice.md
-  CHECK     line 7    Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
   NOTE      line 19   '## Practice: A clean document' has no errors marked, so it's a clean document (the right stamp is APPROVE).
                       -> If it should have errors, mark them like {wrong => right}.
-  CHECK     line 24   Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
   GRAMMAR   line 26   Word questions the grammar of: 'Please park on the second level of the parkade.'
                       -> Check it. Word is often wrong about quoted examples and fragments, so ignore it if the sentence is right.
-  SPELLING  line 34   'i' may be misspelled.
-                      -> Word suggests: I, a, if. If it's correct (a name or legal term), add it to levels\words-ok.txt.
 
 01B Fewer vs less - Test.md
   NOTE      line 4    '## Question' has no hint.
@@ -25,48 +15,46 @@ LEVEL CHECK  2026-11-25 12:55  -  19 files
                       -> Optional: add a Hint: line.
   NOTE      line 28   '## Question' has no hint.
                       -> Optional: add a Hint: line.
-  CHECK     line 52   Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
 
 02A Subject-verb agreement.md
-  CHECK     line 10   Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
+  GRAMMAR   line 12   Word questions the grammar of: 'A phrase such as from the court reporter adds information, but it doesn’t change whethe...'
+                      -> Check it. Word is often wrong about quoted examples and fragments, so ignore it if the sentence is right.
 
 02B Subject-verb agreement - Test.md
-  CHECK     line 4    Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
-  GRAMMAR   line 11   Word questions the grammar of: 'Files is inside the prepositional phrase of client files.'
-                      -> Check it. Word is often wrong about quoted examples and fragments, so ignore it if the sentence is right.
-  SPELLING  line 21   Repeated word: 'is is'.
-                      -> Delete one, unless it's on purpose (for example, 'Is is singular' when talking about the word is).
-  GRAMMAR   line 21   Word questions the grammar of: 'Is is singular, and a number of needs a plural verb.'
-                      -> Check it. Word is often wrong about quoted examples and fragments, so ignore it if the sentence is right.
-  CHECK     line 40   Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
+  NOTE      line 4    '## Question' has no hint.
+                      -> Optional: add a Hint: line.
+  NOTE      line 12   '## Question' has no hint.
+                      -> Optional: add a Hint: line.
+  NOTE      line 20   '## Question' has no hint.
+                      -> Optional: add a Hint: line.
+  NOTE      line 28   '## Question' has no hint.
+                      -> Optional: add a Hint: line.
 
 03A Good well bad badly.md
-  CHECK     line 9    Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
+  GRAMMAR   line 27   Word questions the grammar of: 'Both “Are you feeling well?” and “Are you feeling good?” are correct: well asks about h...'
+                      -> Check it. Word is often wrong about quoted examples and fragments, so ignore it if the sentence is right.
 
 03B Good well bad badly - Test.md
-  NOTE      line 37   '## Inspect: The office newsletter' has no errors marked, so it's a clean document (the right stamp is APPROVE).
-                      -> If it should have errors, mark them like {wrong => right}.
-  CHECK     line 42   Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
-  CHECK     line 53   Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
-
-04A She and I between you and me.md
-  CHECK     line 9    Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
+  NOTE      line 4    '## Question' has no hint.
+                      -> Optional: add a Hint: line.
+  NOTE      line 12   '## Question' has no hint.
+                      -> Optional: add a Hint: line.
+  NOTE      line 20   '## Question' has no hint.
+                      -> Optional: add a Hint: line.
+  NOTE      line 28   '## Question' has no hint.
+                      -> Optional: add a Hint: line.
 
 04B She and I - Test.md
-  GRAMMAR   line 33   Word questions the grammar of: 'Than me is common in speech, but formal writing finishes the comparison: than I do.'
-                      -> Check it. Word is often wrong about quoted examples and fragments, so ignore it if the sentence is right.
-  CHECK     line 44   Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
-  GRAMMAR   line 48   Word questions the grammar of: 'To is a preposition, so the object form me is correct.'
-                      -> Check it. Word is often wrong about quoted examples and fragments, so ignore it if the sentence is right.
+  NOTE      line 4    '## Question' has no hint.
+                      -> Optional: add a Hint: line.
+  NOTE      line 12   '## Question' has no hint.
+                      -> Optional: add a Hint: line.
+  NOTE      line 20   '## Question' has no hint.
+                      -> Optional: add a Hint: line.
+  NOTE      line 28   '## Question' has no hint.
+                      -> Optional: add a Hint: line.
+  NOTE      line 36   '## Question' has no hint.
+                      -> Optional: add a Hint: line.
 
 05A Who whom whoever.md
   CHECK     line 9    Still has filler text.
@@ -111,8 +99,6 @@ LEVEL CHECK  2026-11-25 12:55  -  19 files
 game.md
   CHECK     line 13   Still has filler text.
                       -> Replace this line with your own writing (or delete it).
-  CHECK     line 15   Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
 
-Errors: 0   To check: 24   Spelling: 2   Grammar: 5   Notes: 8
-Word spelling and grammar: done (390 lines checked)
+Errors: 0   To check: 11   Spelling: 0   Grammar: 3   Notes: 20
+Word spelling and grammar: done (420 lines checked)
