@@ -1,4 +1,4 @@
-# Packs the engine and every file in the levels folder into one playable HTML file.
+﻿# Packs the engine and every file in the levels folder into one playable HTML file.
 # Run it by double-clicking build.cmd (or: powershell -File build.ps1 -Open).
 param([switch]$Open)
 

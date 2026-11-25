@@ -1,6 +1,6 @@
 # How to write level files
 
-The game reads every `.md` file in the `levels` folder, puts them in filename order, and plays them as workdays at a pixel-art law-office desk. To add, change or remove content, edit the files in `levels`, then double-click **`build.cmd`**. It rebuilds **`Grammar Guide Game.html`** (the one file you hand in) and opens it.
+The game reads every `.md` file in the `levels` folder, puts them in filename order, and plays them as workdays at a pixel-art law-office desk. To add, change or remove content, edit the files in `levels`, then double-click **`build.cmd`**. It checks your files (see section 8), rebuilds **`Grammar Guide Game.html`** (the one file you hand in) and `index.html` (the same game, for GitHub Pages), and opens it.
 
 You never need to touch the `engine` folder.
 
@@ -185,7 +185,23 @@ A block with no options and no passage becomes a note from the boss with an **OK
 
 ## 8. Checking your files
 
-If the game can't understand a line (a missing `Answer:`, a bracket without `=>`, a file name without a number), the title screen lists the problem with the file name. Fix it and run `build.cmd` again.
+**`check.cmd`** checks every level file and lists what to fix, with the **file name and line number**. `build.cmd` runs the same check before every build. The results are also saved to `level-check-report.txt`.
+
+| Label | Meaning |
+|---|---|
+| **ERROR** | The game breaks or behaves wrongly. Fix these first. Examples: an answer letter with no matching option, a `{` without `=>`, a line the game can't read. |
+| **CHECK** | Probably a mistake. Examples: a typo in a setting name (`Titel:`), a wrong option with no feedback, two identical options, leftover FILLER text. |
+| **SPELLING** | Microsoft Word (Canadian English) doesn't know the word. If it's a name or legal term, add it to `levels\words-ok.txt`. |
+| **GRAMMAR** | Word questions a sentence. Word is often wrong about sentences that talk *about* words ("Is is singular") or quote a wrong example, so use your judgement. |
+| **NOTE** | For your information. Examples: a clean document (right stamp = APPROVE), no hint, no feedback on a mark. |
+
+**How it checks your passages:** it puts each passage back together with your fixes applied, then has Word check that corrected version. Anything Word flags there is an error you didn't mark, or one your fix didn't really fix.
+
+**What it can't check:** whether your answer letter is the right answer, and whether your fix is the best one. Play each day you change once (Options → Unlock every day).
+
+Spelling and grammar need Microsoft Word on the computer. Without Word, the other checks still run.
+
+The game's title screen also lists format problems if any slip through.
 
 Progress is saved in the browser. On the title screen, under **Options**, **Unlock every day** lets your instructor open any day, and **Reset progress** starts over.
 

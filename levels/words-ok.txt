@@ -1,0 +1,11 @@
+# Words the level checker should accept even if Microsoft Word doesn't know them:
+# names, places, legal terms. One word per line. Lines starting with # are ignored.
+# The game ignores this file; only check.cmd reads it.
+Fewster
+Lessing
+Whitfield
+Haddad
+Sandhu
+Ramsay
+Northgate
+parkade

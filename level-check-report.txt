@@ -1,0 +1,122 @@
+LEVEL CHECK  2026-11-24 18:37  -  19 files
+
+00A Tutorial - Welcome.md
+  CHECK     line 9    Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+00B Tutorial - Practice.md
+  CHECK     line 7    Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+  NOTE      line 19   '## Practice: A clean document' has no errors marked, so it's a clean document (the right stamp is APPROVE).
+                      -> If it should have errors, mark them like {wrong => right}.
+  CHECK     line 24   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+  GRAMMAR   line 26   Word questions the grammar of: 'Please park on the second level of the parkade.'
+                      -> Check it. Word is often wrong about quoted examples and fragments, so ignore it if the sentence is right.
+  SPELLING  line 34   'i' may be misspelled.
+                      -> Word suggests: I, a, if. If it's correct (a name or legal term), add it to levels\words-ok.txt.
+
+01A Fewer vs less.md
+  CHECK     line 9    Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+  GRAMMAR   line 22   Word questions the grammar of: 'Three clients works, so clients takes fewer.'
+                      -> Check it. Word is often wrong about quoted examples and fragments, so ignore it if the sentence is right.
+
+01B Fewer vs less - Test.md
+  SPELLING  line 22   'paperworks' may be misspelled.
+                      -> Word suggests: paperwork's, paperwork, paper works. If it's correct (a name or legal term), add it to levels\words-ok.txt.
+  NOTE      line 50   '## Inspect: The courier note' has no errors marked, so it's a clean document (the right stamp is APPROVE).
+                      -> If it should have errors, mark them like {wrong => right}.
+  CHECK     line 55   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+  CHECK     line 66   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+02A Subject-verb agreement.md
+  CHECK     line 10   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+02B Subject-verb agreement - Test.md
+  CHECK     line 4    Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+  GRAMMAR   line 11   Word questions the grammar of: 'Files is inside the prepositional phrase of client files.'
+                      -> Check it. Word is often wrong about quoted examples and fragments, so ignore it if the sentence is right.
+  SPELLING  line 21   Repeated word: 'is is'.
+                      -> Delete one, unless it's on purpose (for example, 'Is is singular' when talking about the word is).
+  GRAMMAR   line 21   Word questions the grammar of: 'Is is singular, and a number of needs a plural verb.'
+                      -> Check it. Word is often wrong about quoted examples and fragments, so ignore it if the sentence is right.
+  CHECK     line 40   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+03A Good well bad badly.md
+  CHECK     line 9    Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+03B Good well bad badly - Test.md
+  NOTE      line 37   '## Inspect: The office newsletter' has no errors marked, so it's a clean document (the right stamp is APPROVE).
+                      -> If it should have errors, mark them like {wrong => right}.
+  CHECK     line 42   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+  CHECK     line 53   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+04A She and I between you and me.md
+  CHECK     line 9    Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+04B She and I - Test.md
+  GRAMMAR   line 33   Word questions the grammar of: 'Than me is common in speech, but formal writing finishes the comparison: than I do.'
+                      -> Check it. Word is often wrong about quoted examples and fragments, so ignore it if the sentence is right.
+  CHECK     line 44   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+  GRAMMAR   line 48   Word questions the grammar of: 'To is a preposition, so the object form me is correct.'
+                      -> Check it. Word is often wrong about quoted examples and fragments, so ignore it if the sentence is right.
+
+05A Who whom whoever.md
+  CHECK     line 9    Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+05B Who whom whoever - Test.md
+  NOTE      line 37   '## Inspect: The hearing reminder' has no errors marked, so it's a clean document (the right stamp is APPROVE).
+                      -> If it should have errors, mark them like {wrong => right}.
+  CHECK     line 42   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+  CHECK     line 53   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+06A Ending with prepositions.md
+  CHECK     line 9    Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+06B Ending with prepositions - Test.md
+  CHECK     line 44   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+07A Commas that change meaning.md
+  CHECK     line 9    Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+07B Commas that change meaning - Test.md
+  NOTE      line 35   '## Inspect: The Friday notice' has no errors marked, so it's a clean document (the right stamp is APPROVE).
+                      -> If it should have errors, mark them like {wrong => right}.
+  CHECK     line 40   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+  CHECK     line 51   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+08A Final boss - Briefing.md
+  CHECK     line 9    Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+08B Final boss - Affidavit.md
+  CHECK     line 13   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+game.md
+  CHECK     line 13   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+  CHECK     line 15   Still has filler text.
+                      -> Replace this line with your own writing (or delete it).
+
+Errors: 0   To check: 26   Spelling: 3   Grammar: 6   Notes: 5
+Word spelling and grammar: done (398 lines checked)
