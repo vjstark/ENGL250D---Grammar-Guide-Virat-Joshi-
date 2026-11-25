@@ -6,17 +6,22 @@ From: Dana Whitfield, Office Manager
 To: You
 Subject: Before you place the supply order
 ---
-> FILLER: replace with your rewritten Level 1 page.
+**The rule**
 
-**Rule:** Use *fewer* with countable nouns (things you can put a number in front of). Use *less* with non-countable nouns (amounts).
+- Use *fewer* with things you can count one at a time.
+- Use *less* with an amount you don’t count one by one.
 
-✓ There are fewer people here than I expected.
-✗ We have less volunteers this year. → fewer volunteers
+✓ Please order fewer binders and less paper.
+✗ Please order less binders. → *fewer* binders
 
-| Countable → fewer | Non-countable → less |
-|---|---|
-| fewer people | less milk |
-| fewer emails | less paperwork |
-| fewer mistakes | less time |
+Ask yourself, “How many?” or “How much?”
 
-**Test:** put a number in front of the noun. *Three clients* works, so *clients* takes *fewer*.
+| Ask | Use | Example |
+|---|---|---|
+| How many? | *fewer* | fewer binders |
+| How much? | *less* | less glue |
+
+**Tricky cases**
+
+- Use *less* with measurements of time, money, and distance: *less than three hours*, *less than $50*, *less than ten kilometres*.
+- If *paper* means separate documents, it can be counted: *fewer papers*.

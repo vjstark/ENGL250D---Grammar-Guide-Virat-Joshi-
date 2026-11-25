@@ -2,59 +2,45 @@
 Title: Fewer vs. Less: Test
 ---
 ## Question
-The firm received ___ applications this year than last year.
-
-A) less
-B) fewer
-C) lesser
-Answer: B
-Feedback A: Applications is a plural countable noun (you can say two applications), so it takes fewer.
-Feedback C: Lesser means lower in importance, as in a lesser charge. It doesn't mean a smaller number.
-Hint: Can you put a number in front of applications?
-
-## Question
-The new filing system means ___ paperwork for the legal team.
+The office needs ___ folders than it ordered last month.
 
 A) fewer
 B) less
-C) lesser
+Answer: A
+Feedback B: You can count folders one by one.
+
+## Question
+The courier spent ___ than $50 delivering the boxes.
+
+A) fewer
+B) less
 Answer: B
-Feedback A: Paperwork is a non-countable noun. You can't say three paperworks, so it takes less.
-Feedback C: Lesser compares importance, not amount.
-Hint: Would you ask how much paperwork or how many paperwork?
+Feedback A: Fifty dollars is an amount of money.
 
 ## Question
-Our office hired ___ paralegals this year, so each one has ___ free time.
+The office used ___ paper than last month but filed ___ papers.
 
-A) fewer / less
-B) less / fewer
-C) fewer / fewer
-D) less / less
+A) less / fewer
+B) fewer / less
 Answer: A
-Feedback B: The words are reversed. Paralegals can be counted, and free time is an amount.
-Feedback C: Free time is a non-countable noun, so it takes less.
-Feedback D: Paralegals is a plural countable noun, so it takes fewer.
-Hint: Ask how many? for one blank and how much? for the other.
+Feedback B: *Paper* means the material, so it’s non-countable. *Papers* means separate documents, so you can count them.
 
 ## Question
-Which sentence uses the standard form?
+The clerk finished the review in ___ than 90 minutes and found ___ errors than the first reviewer.
 
-A) The hearing lasted less than three hours.
-B) The hearing lasted fewer than three hours.
-C) Neither sentence is standard.
+A) less / fewer
+B) fewer / less
 Answer: A
-Feedback B: Three hours is a length of time. We treat a measurement as one amount, so less is standard.
-Feedback C: Sentence A follows the measurement exception, so it is standard.
-Hint: Are you counting separate hours or measuring how long the hearing took?
+Feedback B: Use *less* for a measurement of time and *fewer* for countable errors.
 
-## Inspect: The courier note
+## Inspect: The courier budget update
 Document: Email
 From: Omar Haddad, Senior Paralegal
 To: You
-Subject: Courier budget
-FILLER passage. Is it ready to go out?
+Subject: Courier budget update
+Hint: There are two errors.
 Passage:
-We spent {less => less | Money is an amount, so less is correct.} than $200 on couriers in October, and we sent {fewer => fewer | Packages can be counted, so fewer is correct.} packages than in September. Please keep the receipts in the blue folder.
+We had {less => fewer | Deliveries can be counted one by one.} courier deliveries this month than last month, so the invoice was lower. The courier charged {fewer => less | Money is an amount, so use less than $200.} than $200 for the deliveries. We also used {less => less | Correct: paper is the material here, an amount.} paper by sending receipts electronically. Please review the attached summary before I send it to Ms. Fewster.
 
 ## Mini-boss: The 5 p.m. supply memo
 Document: Memo

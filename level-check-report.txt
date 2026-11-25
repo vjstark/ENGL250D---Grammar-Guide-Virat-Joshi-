@@ -1,4 +1,4 @@
-LEVEL CHECK  2026-11-24 18:37  -  19 files
+LEVEL CHECK  2026-11-25 12:55  -  19 files
 
 00A Tutorial - Welcome.md
   CHECK     line 9    Still has filler text.
@@ -16,20 +16,16 @@ LEVEL CHECK  2026-11-24 18:37  -  19 files
   SPELLING  line 34   'i' may be misspelled.
                       -> Word suggests: I, a, if. If it's correct (a name or legal term), add it to levels\words-ok.txt.
 
-01A Fewer vs less.md
-  CHECK     line 9    Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
-  GRAMMAR   line 22   Word questions the grammar of: 'Three clients works, so clients takes fewer.'
-                      -> Check it. Word is often wrong about quoted examples and fragments, so ignore it if the sentence is right.
-
 01B Fewer vs less - Test.md
-  SPELLING  line 22   'paperworks' may be misspelled.
-                      -> Word suggests: paperwork's, paperwork, paper works. If it's correct (a name or legal term), add it to levels\words-ok.txt.
-  NOTE      line 50   '## Inspect: The courier note' has no errors marked, so it's a clean document (the right stamp is APPROVE).
-                      -> If it should have errors, mark them like {wrong => right}.
-  CHECK     line 55   Still has filler text.
-                      -> Replace this line with your own writing (or delete it).
-  CHECK     line 66   Still has filler text.
+  NOTE      line 4    '## Question' has no hint.
+                      -> Optional: add a Hint: line.
+  NOTE      line 12   '## Question' has no hint.
+                      -> Optional: add a Hint: line.
+  NOTE      line 20   '## Question' has no hint.
+                      -> Optional: add a Hint: line.
+  NOTE      line 28   '## Question' has no hint.
+                      -> Optional: add a Hint: line.
+  CHECK     line 52   Still has filler text.
                       -> Replace this line with your own writing (or delete it).
 
 02A Subject-verb agreement.md
@@ -118,5 +114,5 @@ game.md
   CHECK     line 15   Still has filler text.
                       -> Replace this line with your own writing (or delete it).
 
-Errors: 0   To check: 26   Spelling: 3   Grammar: 6   Notes: 5
-Word spelling and grammar: done (398 lines checked)
+Errors: 0   To check: 24   Spelling: 2   Grammar: 5   Notes: 8
+Word spelling and grammar: done (390 lines checked)
